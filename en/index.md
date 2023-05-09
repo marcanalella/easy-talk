@@ -2,7 +2,7 @@
 title: Home
 sections:
   - type: hero_section
-    title: PECS Augmentative Communication
+    title: Easy Talk Augmentative Communication
     subtitle: Augmentative Alternative Communication. Easy to use, it is an effective aid for all children with autism or with complex communication needs.
   #- type: grid_section
   #  title: 'You asked, we answered!'
@@ -100,14 +100,14 @@ sections:
     has_border: true
     background_color: secondary
 seo:
-  title: PECS Augmentative Communication Mobile App
+  title: Easy Talk Augmentative Communication Mobile App
   description: An effective aid for all children with autism or with complex communication needs.
   extra:
     - name: 'og:type'
       value: website
       keyName: property
     - name: 'og:title'
-      value: PECS Augmentative Communication Mobile App
+      value: Easy Talk Augmentative Communication Mobile App
       keyName: property
     - name: 'og:description'
       value: An effective aid for all children with autism or with complex communication needs.
@@ -119,7 +119,7 @@ seo:
     - name: 'twitter:card'
       value: summary_large_image
     - name: 'twitter:title'
-      value: PECS Augmentative Communication Mobile App
+      value: Easy Talk Augmentative Communication Mobile App
     - name: 'twitter:description'
       value: An effective aid for all children with autism or with complex communication needs.
     - name: 'twitter:image'
