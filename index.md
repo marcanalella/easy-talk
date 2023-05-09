@@ -2,7 +2,7 @@
 title: Home
 sections:
   - type: hero_section
-    title: PECS Comunicazione Aumentativa
+    title: Easy Talk - Comunicazione Aumentativa
     subtitle: Comunicazione Aumentativa Alternativa. Facile da usare, è un valido aiuto per tutti i bambini con autismo o con complessi bisogni comunicativi.
   #- type: grid_section
   #  title: 'You asked, we answered!'
@@ -100,14 +100,14 @@ sections:
     has_border: true
     background_color: secondary
 seo:
-  title: PECS Comunicazione Aumentativa Mobile App
+  title: Easy Talk Comunicazione Aumentativa Mobile App
   description: Un valido aiuto per tutti i bambini con autismo o con complessi bisogni comunicativi.
   extra:
     - name: 'og:type'
       value: website
       keyName: property
     - name: 'og:title'
-      value: PECS Comunicazione Aumentativa Mobile App
+      value: Easy Talk Comunicazione Aumentativa Mobile App
       keyName: property
     - name: 'og:description'
       value: Un valido aiuto per tutti i bambini con autismo o con complessi bisogni comunicativi.
@@ -119,7 +119,7 @@ seo:
     - name: 'twitter:card'
       value: summary_large_image
     - name: 'twitter:title'
-      value: PECS Comunicazione Aumentativa Mobile App
+      value: Easy Talk Comunicazione Aumentativa Mobile App
     - name: 'twitter:description'
       value: Un valido aiuto per tutti i bambini con autismo o con complessi bisogni comunicativi.
     - name: 'twitter:image'
