@@ -1,44 +1,17 @@
 {
-    "title": "PECS Augmentative Communication Mobile App",
+    "title": "Easy Talk Augmentative Communication Mobile App",
     "layout_type": "full-width",
     "style": "classic",
     "palette": "blue",
     "mode": "light",
     "base_font": "serif",
     "header": {
-        "title": "PECS Augmentative Communication Mobile App",
+        "title": "Easy Talk Augmentative Communication Mobile App",
         "logo": "images/icon.png",
         "logo_alt": "logo",
         "has_primary_nav": false,
         "has_secondary_nav": true,
-        "secondary_nav_links": [    
-        {
-            "label": "Site",
-            "url": "http://ecomitsolutions.it//",
-            "style": "link",
-            "has_icon": true,
-            "icon": "arrow-right",
-            "icon_position": "center",
-            "new_window": true
-        },
-        {
-            "label": "Facebook",
-            "url": "https://www.facebook.com/ecomitsolutionsmussomeli",
-            "style": "link",
-            "has_icon": true,
-            "icon": "facebook",
-            "icon_position": "center",
-            "new_window": true
-        },
-        {
-            "label": "GitHub",
-            "url": "https://github.com/marcanalella/pecs-augmentative-communication",
-            "style": "link",
-            "has_icon": true,
-            "icon": "github",
-            "icon_position": "center",
-            "new_window": true
-        },
+        "secondary_nav_links": [
         {
             "label": "ITA",
             "url": "/",
@@ -70,33 +43,6 @@
         "has_social": true,
         "social_links": [
             {
-                "label": "Site",
-                "url": "http://ecomitsolutions.it//",
-                "style": "link",
-                "has_icon": true,
-                "icon": "arrow-right",
-                "icon_position": "center",
-                "new_window": true
-            },
-            {
-                "label": "Facebook",
-                "url": "https://www.facebook.com/ecomitsolutionsmussomeli",
-                "style": "link",
-                "has_icon": true,
-                "icon": "facebook",
-                "icon_position": "center",
-                "new_window": true
-            },
-            {
-                "label": "GitHub",
-                "url": "https://github.com/marcanalella/pecs-augmentative-communication",
-                "style": "link",
-                "has_icon": true,
-                "icon": "github",
-                "icon_position": "center",
-                "new_window": true
-            },
-            {
                 "label": "ITA",
                 "url": "/",
                 "style": "link"
@@ -107,6 +53,6 @@
                 "style": "link"
             }
         ],
-        "content": "&copy; All rights reserved. Created by <a href=\"https://www.ecomitsolutions.it\" target=\"_blank\" rel=\"noopener\">ECOM IT Solutions</a>."
+        "content": "&copy; All rights reserved. Created by <a href=\"https://github.com/marcanalella\" target=\"_blank\" rel=\"noopener\">Mario Canalella</a>."
     }
 }
