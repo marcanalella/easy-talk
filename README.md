@@ -1,1 +1,1 @@
-# PECS Augmentative Communication Website
+# Easy Talk Augmentative Communication Website
