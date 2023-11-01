@@ -55,7 +55,7 @@ sections:
     content: Scarica la nostra app ora!
     actions:
       - label: Android App
-        url: https://drive.google.com/file/d/1A4GN6VkhXRXeiU9UwsU6DlYQIodN_wpR/view?usp=sharing
+        url: https://drive.google.com/file/d/1NorSztr0t6v9x2I2teB7XC4yDA7qOLjK/view?usp=sharing
         style: primary
       - label: Web App
         url: http://ec2-3-81-125-102.compute-1.amazonaws.com
