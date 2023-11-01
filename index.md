@@ -54,8 +54,11 @@ sections:
     title: Pronto per iniziare?
     content: Scarica la nostra app ora!
     actions:
-      - label: Android
+      - label: Android App
         url: https://drive.google.com/file/d/1A4GN6VkhXRXeiU9UwsU6DlYQIodN_wpR/view?usp=sharing
+        style: primary
+      - label: Web App
+        url: http://http://ec2-3-81-125-102.compute-1.amazonaws.com
         style: primary
     actions_width: fourty
     align: center
