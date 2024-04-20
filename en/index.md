@@ -52,10 +52,10 @@ sections:
         media_width: sixty
   - type: cta_section
     title: Ready to get started?
-    content: Download our app now!
+    content: 👇👇👇👇👇👇👇
     actions:
-      - label: Android
-        url: https://drive.google.com/file/d/1A4GN6VkhXRXeiU9UwsU6DlYQIodN_wpR/view?usp=sharing
+      - label: Web App
+        url: http://easy-talk.cloud
         style: primary
     actions_width: fourty
     align: center
