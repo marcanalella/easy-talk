@@ -52,7 +52,7 @@ sections:
         media_width: sixty
   - type: cta_section
     title: Pronto per iniziare?
-    content: Scarica la nostra app ora!
+    content: 👇👇👇👇👇👇👇
     actions:
       - label: Web App
         url: http://easy-talk.cloud
