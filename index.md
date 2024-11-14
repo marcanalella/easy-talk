@@ -51,10 +51,10 @@ sections:
         media_position: right
         media_width: sixty
   - type: cta_section
-    title: Pronto per iniziare?
-    content: 👇👇👇👇👇👇👇
+    title: Pronto per iniziare? 
+    content: 👇👇👇 Scaricala subito 👇👇👇
     actions:
-      - label: Web App
+      - label: Google Play
         url: http://easy-talk.cloud
         style: primary
     actions_width: fourty
