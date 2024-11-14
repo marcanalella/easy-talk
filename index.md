@@ -2,7 +2,7 @@
 title: Home
 sections:
   - type: hero_section
-    title: Easy Talk - Comunicazione Aumentativa
+    title: Easy Talk
     subtitle: Comunicazione Aumentativa Alternativa. Facile da usare, è un valido aiuto per tutti i bambini con autismo o con complessi bisogni comunicativi.
   #- type: grid_section
   #  title: 'You asked, we answered!'
