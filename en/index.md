@@ -2,7 +2,7 @@
 title: Home
 sections:
   - type: hero_section
-    title: Easy Talk Augmentative Communication
+    title: Easy Talk
     subtitle: Augmentative Alternative Communication. Easy to use, it is an effective aid for all children with autism or with complex communication needs.
   #- type: grid_section
   #  title: 'You asked, we answered!'
