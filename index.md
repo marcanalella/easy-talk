@@ -55,7 +55,10 @@ sections:
     content: 👇👇👇 Scaricala subito 👇👇👇
     actions:
       - label: Google Play
-        url: http://easy-talk.cloud
+        url: https://play.google.com/store/apps/details?id=com.mariocanalella.easy_talk
+        style: primary
+      - label: Web App
+        url: https://easy-talk-app.netlify.app
         style: primary
     actions_width: fourty
     align: center
